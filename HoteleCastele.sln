@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoteleCastele", "HoteleCastele\HoteleCastele.csproj", "{8084CE87-9F9C-47DD-8142-76687CE4A7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm", "WinForm\WinForm.csproj", "{9F5832D8-DFFC-460D-B281-07DEEA7451BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8084CE87-9F9C-47DD-8142-76687CE4A7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8084CE87-9F9C-47DD-8142-76687CE4A7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8084CE87-9F9C-47DD-8142-76687CE4A7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8084CE87-9F9C-47DD-8142-76687CE4A7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5832D8-DFFC-460D-B281-07DEEA7451BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5832D8-DFFC-460D-B281-07DEEA7451BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5832D8-DFFC-460D-B281-07DEEA7451BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5832D8-DFFC-460D-B281-07DEEA7451BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D882095B-C8D8-41CE-86F5-9C9C4D10A5E6}
+	EndGlobalSection
+EndGlobal
