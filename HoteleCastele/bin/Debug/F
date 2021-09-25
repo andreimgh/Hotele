@@ -1,0 +1,20 @@
+ORA-06550: line 1, column 7:
+PLS-00201: identifier 'REZVA' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+ORA-06550: line 1, column 7:
+PLS-00306: wrong number or types of arguments in call to 'REZERVA'
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+ORA-06550: line 1, column 7:
+PLS-00306: wrong number or types of arguments in call to 'REZERVA'
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+ORA-06550: line 1, column 7:
+PLS-00306: wrong number or types of arguments in call to 'REZERVA'
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+One of the identified items was in an invalid format.
+One of the identified items was in an invalid format.
+One of the identified items was in an invalid format.
+One of the identified items was in an invalid format.
